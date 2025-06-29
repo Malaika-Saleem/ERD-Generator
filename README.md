@@ -1,4 +1,4 @@
-# ERD-Generator
+# ERD-Generator - IBM TechXChange Hackathon
 Generate structured ERD JSON from natural language using IBM Granite’s instruction-tuned AI.
 
 In software system design, understanding how components relate to one another is essential. Whether you’re building an app, designing a service architecture, or documenting business logic, visualizing relationships between entities is key to ensuring clarity and consistency. However, this typically starts with someone — often a non-technical stakeholder — describing the system in plain language. From there, a developer or architect needs to interpret that description and manually build a structured representation, such as an Entity Relationship Diagram (ERD). This process is slow, error-prone, and highly dependent on how well different team members can communicate across technical boundaries.
